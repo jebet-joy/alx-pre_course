@@ -1,1 +1,2 @@
-# alx-pre_course
+ My first readme
+ 0x01=git
