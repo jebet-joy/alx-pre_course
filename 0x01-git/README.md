@@ -1,2 +1,2 @@
-Coding is so cool!
+Coding is so cool.
 
